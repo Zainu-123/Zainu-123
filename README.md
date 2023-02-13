@@ -8,4 +8,21 @@
 Zainu-123/Zainu-123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-- HI
+
+----------------------------------------------------------------------------------------------------------------------------------
+# Skills
+
+## Technical Skills
+- Python
+- MySQL
+- ETL pipelines
+- Data Modelling
+
+## Consultancy Skills
+- Project Design
+- Stakeholder Management
+- PESTEL & RAID Analysis
+- IT & Presentation skills
+
+# Projects
+
