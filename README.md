@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Zainu-123
-- 👀 I’m interested in Data Science and analytics
-- 🌱 I’m currently learning SQL 
-- 💞️ I’m looking to collaborate on Data Science Projects
+- 👋 Hi, I’m Zainu Shiraz, a graduate in Electronics Engineering
+- 👀 I’m interested in music and gardening
+- 🌱 I’m currently working as a Data Engineering Consultant at Xander Talent
+- 💞️ I’m looking to collaborate on Python Projects
 - 📫 You can reach me on zainush12@gmail.com
 
 <!---
